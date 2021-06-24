@@ -10,6 +10,6 @@
 <samp>
   <p align="center">
     ════ ⋆★⋆ ════<br>
-    From <a href="https://github.com/briantru0ng">briantru0ng</a>
+    From <a href="https://github.com/briantru0ng/briantru0ng">briantru0ng</a>
   </p>
 </samp>
