@@ -1,5 +1,4 @@
-<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://kevincui.dev">Brian Truong</a></b></samp></h3>
-<p align="center"><br>
+<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://briantru0ng.github.io/">Brian Truong</a></b></samp></h3><p align="center"><br>
   <samp>
     「 Computer Science Bachelor of Science Student @ <b>Penn State University</b> 🐾 」<br>
   </samp>
